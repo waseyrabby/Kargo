@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="67875" started-at="2016-08-18T05:57:58Z" finished-at="2016-08-18T05:59:06Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="67875" started-at="2016-08-18T05:57:58Z" finished-at="2016-08-18T05:59:06Z">
+      <class name="com.kargo.test.KeywordTest">
+        <test-method status="PASS" signature="startUp()[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="startUp" is-config="true" duration-ms="3054" started-at="2016-08-18T01:57:58Z" finished-at="2016-08-18T01:58:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="kewordSearcharray(java.lang.String)[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="kewordSearcharray" duration-ms="3408" started-at="2016-08-18T01:58:01Z" description="This is a Keyord Search test" data-provider="KeywordAsArray" finished-at="2016-08-18T01:58:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile ad firm]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kewordSearcharray -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="tearDown" is-config="true" duration-ms="75" started-at="2016-08-18T01:58:04Z" finished-at="2016-08-18T01:58:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="startUp()[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="startUp" is-config="true" duration-ms="2065" started-at="2016-08-18T01:58:04Z" finished-at="2016-08-18T01:58:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="kewordSearcharray(java.lang.String)[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="kewordSearcharray" duration-ms="3222" started-at="2016-08-18T01:58:07Z" description="This is a Keyord Search test" data-provider="KeywordAsArray" finished-at="2016-08-18T01:58:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile advertising]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kewordSearcharray -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="tearDown" is-config="true" duration-ms="80" started-at="2016-08-18T01:58:10Z" finished-at="2016-08-18T01:58:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="startUp()[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="startUp" is-config="true" duration-ms="2024" started-at="2016-08-18T01:58:10Z" finished-at="2016-08-18T01:58:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="kewordSearcharray(java.lang.String)[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="kewordSearcharray" duration-ms="2993" started-at="2016-08-18T01:58:12Z" description="This is a Keyord Search test" data-provider="KeywordAsArray" finished-at="2016-08-18T01:58:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile marketing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kewordSearcharray -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="tearDown" is-config="true" duration-ms="78" started-at="2016-08-18T01:58:15Z" finished-at="2016-08-18T01:58:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="startUp()[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="startUp" is-config="true" duration-ms="2001" started-at="2016-08-18T01:58:15Z" finished-at="2016-08-18T01:58:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="kewordSearcharray(java.lang.String)[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="kewordSearcharray" duration-ms="3031" started-at="2016-08-18T01:58:17Z" description="This is a Keyord Search test" data-provider="KeywordAsArray" finished-at="2016-08-18T01:58:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile internet]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kewordSearcharray -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="tearDown" is-config="true" duration-ms="75" started-at="2016-08-18T01:58:20Z" finished-at="2016-08-18T01:58:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="startUp()[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="startUp" is-config="true" duration-ms="2002" started-at="2016-08-18T01:58:20Z" finished-at="2016-08-18T01:58:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="search(java.lang.String)[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="search" duration-ms="5892" started-at="2016-08-18T01:58:22Z" description="Google_Test" data-provider="keywords" finished-at="2016-08-18T01:58:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile ad firm]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="tearDown" is-config="true" duration-ms="73" started-at="2016-08-18T01:58:28Z" finished-at="2016-08-18T01:58:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="startUp()[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="startUp" is-config="true" duration-ms="1941" started-at="2016-08-18T01:58:28Z" finished-at="2016-08-18T01:58:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="search(java.lang.String)[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="search" duration-ms="6187" started-at="2016-08-18T01:58:30Z" description="Google_Test" data-provider="keywords" finished-at="2016-08-18T01:58:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile advertising]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="tearDown" is-config="true" duration-ms="74" started-at="2016-08-18T01:58:36Z" finished-at="2016-08-18T01:58:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="startUp()[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="startUp" is-config="true" duration-ms="2014" started-at="2016-08-18T01:58:36Z" finished-at="2016-08-18T01:58:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="search(java.lang.String)[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="search" duration-ms="5981" started-at="2016-08-18T01:58:38Z" description="Google_Test" data-provider="keywords" finished-at="2016-08-18T01:58:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile marketing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="tearDown" is-config="true" duration-ms="79" started-at="2016-08-18T01:58:44Z" finished-at="2016-08-18T01:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="startUp()[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="startUp" is-config="true" duration-ms="1999" started-at="2016-08-18T01:58:44Z" finished-at="2016-08-18T01:58:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="search(java.lang.String)[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="search" duration-ms="6031" started-at="2016-08-18T01:58:46Z" description="Google_Test" data-provider="keywords" finished-at="2016-08-18T01:58:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile internet]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="tearDown" is-config="true" duration-ms="70" started-at="2016-08-18T01:58:52Z" finished-at="2016-08-18T01:58:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="startUp()[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="startUp" is-config="true" duration-ms="1989" started-at="2016-08-18T01:58:52Z" finished-at="2016-08-18T01:58:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="searchforkargo()[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="searchforkargo" duration-ms="11195" started-at="2016-08-18T01:58:54Z" finished-at="2016-08-18T01:59:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchforkargo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.kargo.test.KeywordTest@3ce53f6a]" name="tearDown" is-config="true" duration-ms="133" started-at="2016-08-18T01:59:06Z" finished-at="2016-08-18T01:59:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.kargo.test.KeywordTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -1,0 +1,47 @@
+{
+  "uid" : "58ce16f5aca99281",
+  "name" : "searchforkargo",
+  "title" : "Searchforkargo",
+  "time" : {
+    "start" : 1471381915073,
+    "stop" : 1471381915078,
+    "duration" : 5
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "e0a3b8719ec82545",
+    "name" : "Default Suite : kargo",
+    "title" : "Default Suite : kargo"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Aams-MacBook-Pro-2.local"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "thread",
+    "value" : "73193@Aams-MacBook-Pro-2.local.main(1)"
+  }, {
+    "name" : "suite-title",
+    "value" : "Default Suite : kargo"
+  }, {
+    "name" : "suite-name",
+    "value" : "Default Suite : kargo"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,78 @@
+{
+  "hash" : "9ae4a52f46fbba0c959575303f697deb73e72d63",
+  "data" : [ {
+    "statistic" : {
+      "total" : 59,
+      "passed" : 38,
+      "pending" : 0,
+      "canceled" : 18,
+      "failed" : 0,
+      "broken" : 3
+    },
+    "time" : {
+      "start" : 1471491555900,
+      "stop" : 1471499125709,
+      "duration" : 7569809
+    },
+    "name" : "total",
+    "type" : "TOTAL"
+  }, {
+    "name" : "defects",
+    "type" : "DEFECTS",
+    "data" : [ {
+      "count" : 1,
+      "message" : "Test was interrupted",
+      "status" : "BROKEN"
+    }, {
+      "count" : 1,
+      "message" : "Test suite was interrupted, some test cases may be lost",
+      "status" : "BROKEN"
+    }, {
+      "count" : 1,
+      "message" : "IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html",
+      "status" : "BROKEN"
+    } ]
+  }, {
+    "name" : "xunit",
+    "type" : "TITLE_STATISTICS",
+    "data" : [ {
+      "title" : "Default Suite : kargo",
+      "statistic" : {
+        "total" : 47,
+        "passed" : 28,
+        "pending" : 0,
+        "canceled" : 16,
+        "failed" : 0,
+        "broken" : 3
+      }
+    }, {
+      "title" : "Surefire suite : Surefire test",
+      "statistic" : {
+        "total" : 12,
+        "passed" : 10,
+        "pending" : 0,
+        "canceled" : 2,
+        "failed" : 0,
+        "broken" : 0
+      }
+    } ]
+  }, {
+    "name" : "behaviors",
+    "type" : "TITLE_STATISTICS",
+    "data" : [ {
+      "title" : "Without feature",
+      "statistic" : {
+        "total" : 59,
+        "passed" : 38,
+        "pending" : 0,
+        "canceled" : 18,
+        "failed" : 0,
+        "broken" : 3
+      }
+    } ]
+  }, {
+    "name" : "environment",
+    "type" : "KEY_VALUE",
+    "data" : [ ]
+  } ]
+}

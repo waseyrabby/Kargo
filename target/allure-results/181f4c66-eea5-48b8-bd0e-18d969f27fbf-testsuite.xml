@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1471499878365" stop="1471499946245" version="1.4.16" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Surefire suite : Surefire test</name>
+    <title>Surefire suite : Surefire test</title>
+    <test-cases>
+        <test-case start="1471499881742" stop="1471499884851" status="passed">
+            <name>kewordSearcharray[Mobile ad firm]</name>
+            <description>This is a Keyord Search test</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Aams-MacBook-Pro-2.local"/>
+                <label name="thread" value="1256@Aams-MacBook-Pro-2.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1471499881742" stop="1471499884851" status="passed">
+            <name>kewordSearcharray[Mobile ad firm]</name>
+            <description>This is a Keyord Search test</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Aams-MacBook-Pro-2.local"/>
+                <label name="thread" value="1256@Aams-MacBook-Pro-2.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1471499887052" stop="1471499890272" status="passed">
+            <name>kewordSearcharray[Mobile advertising]</name>
+            <description>This is a Keyord Search test</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Aams-MacBook-Pro-2.local"/>
+                <label name="thread" value="1256@Aams-MacBook-Pro-2.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1471499887052" stop="1471499890272" status="passed">
+            <name>kewordSearcharray[Mobile advertising]</name>
+            <description>This is a Keyord Search test</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Aams-MacBook-Pro-2.local"/>
+                <label name="thread" value="1256@Aams-MacBook-Pro-2.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1471499892381" stop="1471499895372" status="passed">
+            <name>kewordSearcharray[Mobile marketing]</name>
+            <description>This is a Keyord Search test</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Aams-MacBook-Pro-2.local"/>
+                <label name="thread" value="1256@Aams-MacBook-Pro-2.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1471499892381" stop="1471499895372" status="passed">
+            <name>kewordSearcharray[Mobile marketing]</name>
+            <description>This is a Keyord Search test</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Aams-MacBook-Pro-2.local"/>
+                <label name="thread" value="1256@Aams-MacBook-Pro-2.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1471499897454" stop="1471499900484" status="passed">
+            <name>kewordSearcharray[Mobile internet]</name>
+            <description>This is a Keyord Search test</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Aams-MacBook-Pro-2.local"/>
+                <label name="thread" value="1256@Aams-MacBook-Pro-2.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1471499897454" stop="1471499900484" status="passed">
+            <name>kewordSearcharray[Mobile internet]</name>
+            <description>This is a Keyord Search test</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Aams-MacBook-Pro-2.local"/>
+                <label name="thread" value="1256@Aams-MacBook-Pro-2.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1471499902566" stop="1471499908456" status="passed">
+            <name>search[Mobile ad firm]</name>
+            <description>Google_Test</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Aams-MacBook-Pro-2.local"/>
+                <label name="thread" value="1256@Aams-MacBook-Pro-2.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1471499902566" stop="1471499908456" status="passed">
+            <name>search[Mobile ad firm]</name>
+            <description>Google_Test</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Aams-MacBook-Pro-2.local"/>
+                <label name="thread" value="1256@Aams-MacBook-Pro-2.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1471499910473" stop="1471499916658" status="passed">
+            <name>search[Mobile advertising]</name>
+            <description>Google_Test</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Aams-MacBook-Pro-2.local"/>
+                <label name="thread" value="1256@Aams-MacBook-Pro-2.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1471499910473" stop="1471499916658" status="passed">
+            <name>search[Mobile advertising]</name>
+            <description>Google_Test</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Aams-MacBook-Pro-2.local"/>
+                <label name="thread" value="1256@Aams-MacBook-Pro-2.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1471499918748" stop="1471499924728" status="passed">
+            <name>search[Mobile marketing]</name>
+            <description>Google_Test</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Aams-MacBook-Pro-2.local"/>
+                <label name="thread" value="1256@Aams-MacBook-Pro-2.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1471499918748" stop="1471499924728" status="passed">
+            <name>search[Mobile marketing]</name>
+            <description>Google_Test</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Aams-MacBook-Pro-2.local"/>
+                <label name="thread" value="1256@Aams-MacBook-Pro-2.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1471499926809" stop="1471499932838" status="passed">
+            <name>search[Mobile internet]</name>
+            <description>Google_Test</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Aams-MacBook-Pro-2.local"/>
+                <label name="thread" value="1256@Aams-MacBook-Pro-2.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1471499926809" stop="1471499932838" status="passed">
+            <name>search[Mobile internet]</name>
+            <description>Google_Test</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Aams-MacBook-Pro-2.local"/>
+                <label name="thread" value="1256@Aams-MacBook-Pro-2.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1471499934900" stop="1471499946094" status="passed">
+            <name>searchforkargo</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Aams-MacBook-Pro-2.local"/>
+                <label name="thread" value="1256@Aams-MacBook-Pro-2.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1471499934900" stop="1471499946094" status="passed">
+            <name>searchforkargo</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Aams-MacBook-Pro-2.local"/>
+                <label name="thread" value="1256@Aams-MacBook-Pro-2.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

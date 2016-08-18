@@ -1,0 +1,50 @@
+{
+  "uid" : "18bed7e4f35b8d5",
+  "name" : "search[Mobile marketing]",
+  "title" : "Search [Mobile marketing]",
+  "time" : {
+    "start" : 1471498160673,
+    "stop" : 1471498165391,
+    "duration" : 4718
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "Google_Test",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "5db6a661bcefa0c2",
+    "name" : "Default Suite : kargo",
+    "title" : "Default Suite : kargo"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Aams-MacBook-Pro-2.local"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "suite-title",
+    "value" : "Default Suite : kargo"
+  }, {
+    "name" : "suite-name",
+    "value" : "Default Suite : kargo"
+  }, {
+    "name" : "thread",
+    "value" : "97462@Aams-MacBook-Pro-2.local.main(1)"
+  } ],
+  "parameters" : [ ]
+}

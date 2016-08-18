@@ -1,0 +1,695 @@
+{
+  "time" : {
+    "start" : 1471491555900,
+    "stop" : 1471499125709,
+    "duration" : 7569809
+  },
+  "testSuites" : [ {
+    "uid" : "5db6a661bcefa0c2",
+    "name" : "Default Suite : kargo",
+    "title" : "Default Suite : kargo",
+    "time" : {
+      "start" : 1471495185665,
+      "stop" : 1471499125709,
+      "duration" : 3940044
+    },
+    "statistic" : {
+      "total" : 47,
+      "passed" : 28,
+      "pending" : 0,
+      "canceled" : 16,
+      "failed" : 0,
+      "broken" : 3
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "e9a56ed454442da7",
+      "name" : "search",
+      "title" : "Search",
+      "time" : {
+        "start" : 1471496047218,
+        "stop" : 1471496047222,
+        "duration" : 4
+      },
+      "severity" : "NORMAL",
+      "status" : "CANCELED"
+    }, {
+      "uid" : "543c3691c23947e6",
+      "name" : "kewordSearchtxt",
+      "title" : "Keword searchtxt",
+      "time" : {
+        "start" : 1471495339309,
+        "stop" : 1471495353716,
+        "duration" : 14407
+      },
+      "severity" : "NORMAL",
+      "status" : "BROKEN"
+    }, {
+      "uid" : "b37f1d90897ad3a3",
+      "name" : "Default Suite : kargo",
+      "title" : "Default Suite : kargo",
+      "time" : {
+        "start" : 1471495335718,
+        "stop" : 1471495353718,
+        "duration" : 18000
+      },
+      "severity" : "NORMAL",
+      "status" : "BROKEN"
+    }, {
+      "uid" : "db4c921448bab863",
+      "name" : "search",
+      "title" : "Search",
+      "time" : {
+        "start" : 1471496321392,
+        "stop" : 1471496321398,
+        "duration" : 6
+      },
+      "severity" : "NORMAL",
+      "status" : "CANCELED"
+    }, {
+      "uid" : "162357f6dbcd5a92",
+      "name" : "kewordSearchtxt",
+      "title" : "Keword searchtxt",
+      "time" : {
+        "start" : 1471495557329,
+        "stop" : 1471495557337,
+        "duration" : 8
+      },
+      "severity" : "NORMAL",
+      "status" : "CANCELED"
+    }, {
+      "uid" : "4b398061baca1e8f",
+      "name" : "kewordSearchtxt",
+      "title" : "Keword searchtxt",
+      "time" : {
+        "start" : 1471495185665,
+        "stop" : 1471495185670,
+        "duration" : 5
+      },
+      "severity" : "NORMAL",
+      "status" : "CANCELED"
+    }, {
+      "uid" : "e088cad25fcf9151",
+      "name" : "search",
+      "title" : "Search",
+      "time" : {
+        "start" : 1471497999578,
+        "stop" : 1471497999598,
+        "duration" : 20
+      },
+      "severity" : "NORMAL",
+      "status" : "CANCELED"
+    }, {
+      "uid" : "c87385805c5f811e",
+      "name" : "search[Mobile ad firm]",
+      "title" : "Search [Mobile ad firm]",
+      "time" : {
+        "start" : 1471496061796,
+        "stop" : 1471496067078,
+        "duration" : 5282
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "46a4e6f6e67bcac",
+      "name" : "search[Mobile advertising]",
+      "title" : "Search [Mobile advertising]",
+      "time" : {
+        "start" : 1471496067158,
+        "stop" : 1471496071868,
+        "duration" : 4710
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "751e619f45cbf3bd",
+      "name" : "search[Mobile marketing]",
+      "title" : "Search [Mobile marketing]",
+      "time" : {
+        "start" : 1471496071870,
+        "stop" : 1471496076529,
+        "duration" : 4659
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "187d3ca5890b088f",
+      "name" : "search[Mobile internet]",
+      "title" : "Search [Mobile internet]",
+      "time" : {
+        "start" : 1471496076532,
+        "stop" : 1471496081277,
+        "duration" : 4745
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "dbf3df7b08f8160e",
+      "name" : "search[Mobile ad firm]",
+      "title" : "Search [Mobile ad firm]",
+      "time" : {
+        "start" : 1471499095250,
+        "stop" : 1471499101397,
+        "duration" : 6147
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "342aeeaac821a72a",
+      "name" : "search[Mobile advertising]",
+      "title" : "Search [Mobile advertising]",
+      "time" : {
+        "start" : 1471499103560,
+        "stop" : 1471499109536,
+        "duration" : 5976
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "4285022ef856a276",
+      "name" : "search[Mobile marketing]",
+      "title" : "Search [Mobile marketing]",
+      "time" : {
+        "start" : 1471499111561,
+        "stop" : 1471499117637,
+        "duration" : 6076
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "8750c35f5af63d85",
+      "name" : "search[Mobile internet]",
+      "title" : "Search [Mobile internet]",
+      "time" : {
+        "start" : 1471499119739,
+        "stop" : 1471499125709,
+        "duration" : 5970
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "8a49124bdfd35303",
+      "name" : "setUp",
+      "title" : "Set up",
+      "time" : {
+        "start" : 1471495837075,
+        "stop" : 1471495837089,
+        "duration" : 14
+      },
+      "severity" : "NORMAL",
+      "status" : "BROKEN"
+    }, {
+      "uid" : "8894d9f3c5b4823c",
+      "name" : "search",
+      "title" : "Search",
+      "time" : {
+        "start" : 1471495837103,
+        "stop" : 1471495837104,
+        "duration" : 1
+      },
+      "severity" : "NORMAL",
+      "status" : "CANCELED"
+    }, {
+      "uid" : "c2999c050bf5c913",
+      "name" : "tearDown",
+      "title" : "Tear down",
+      "time" : {
+        "start" : 1471495837106,
+        "stop" : 1471495837106,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "CANCELED"
+    }, {
+      "uid" : "23db4c73313c688",
+      "name" : "search",
+      "title" : "Search",
+      "time" : {
+        "start" : 1471495924747,
+        "stop" : 1471495924751,
+        "duration" : 4
+      },
+      "severity" : "NORMAL",
+      "status" : "CANCELED"
+    }, {
+      "uid" : "c9448b48338fa63e",
+      "name" : "search[Mobile ad firm]",
+      "title" : "Search [Mobile ad firm]",
+      "time" : {
+        "start" : 1471498422811,
+        "stop" : 1471498428087,
+        "duration" : 5276
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "c3e06b188b86e501",
+      "name" : "search[Mobile advertising]",
+      "title" : "Search [Mobile advertising]",
+      "time" : {
+        "start" : 1471498430321,
+        "stop" : 1471498435696,
+        "duration" : 5375
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "b25ca399deb68412",
+      "name" : "search[Mobile marketing]",
+      "title" : "Search [Mobile marketing]",
+      "time" : {
+        "start" : 1471498437729,
+        "stop" : 1471498443009,
+        "duration" : 5280
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "ecd75b9fd0175717",
+      "name" : "search[Mobile internet]",
+      "title" : "Search [Mobile internet]",
+      "time" : {
+        "start" : 1471498445043,
+        "stop" : 1471498450512,
+        "duration" : 5469
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "b59e41fb785d1db9",
+      "name" : "search",
+      "title" : "Search",
+      "time" : {
+        "start" : 1471499055383,
+        "stop" : 1471499055387,
+        "duration" : 4
+      },
+      "severity" : "NORMAL",
+      "status" : "CANCELED"
+    }, {
+      "uid" : "ac5fe712920452e2",
+      "name" : "search[Mobile ad firm]",
+      "title" : "Search [Mobile ad firm]",
+      "time" : {
+        "start" : 1471498302407,
+        "stop" : 1471498307867,
+        "duration" : 5460
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "c90b874e9549a415",
+      "name" : "search[Mobile advertising]",
+      "title" : "Search [Mobile advertising]",
+      "time" : {
+        "start" : 1471498310006,
+        "stop" : 1471498315290,
+        "duration" : 5284
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "b790d1f62add8922",
+      "name" : "search[Mobile marketing]",
+      "title" : "Search [Mobile marketing]",
+      "time" : {
+        "start" : 1471498317307,
+        "stop" : 1471498322535,
+        "duration" : 5228
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "3292085c0f5ac6e",
+      "name" : "search[Mobile internet]",
+      "title" : "Search [Mobile internet]",
+      "time" : {
+        "start" : 1471498324575,
+        "stop" : 1471498330452,
+        "duration" : 5877
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "9e2f7ae6d4b425f7",
+      "name" : "kewordSearchtxt",
+      "title" : "Keword searchtxt",
+      "time" : {
+        "start" : 1471495467185,
+        "stop" : 1471495467189,
+        "duration" : 4
+      },
+      "severity" : "NORMAL",
+      "status" : "CANCELED"
+    }, {
+      "uid" : "1c28a11f62b435a",
+      "name" : "kewordSearchtxt",
+      "title" : "Keword searchtxt",
+      "time" : {
+        "start" : 1471495258207,
+        "stop" : 1471495258214,
+        "duration" : 7
+      },
+      "severity" : "NORMAL",
+      "status" : "CANCELED"
+    }, {
+      "uid" : "5349a4009889d261",
+      "name" : "kewordSearchtxt",
+      "title" : "Keword searchtxt",
+      "time" : {
+        "start" : 1471495313102,
+        "stop" : 1471495313109,
+        "duration" : 7
+      },
+      "severity" : "NORMAL",
+      "status" : "CANCELED"
+    }, {
+      "uid" : "9bb8c2da2a2d863",
+      "name" : "search[Mobile ad firm]",
+      "title" : "Search [Mobile ad firm]",
+      "time" : {
+        "start" : 1471498150448,
+        "stop" : 1471498155862,
+        "duration" : 5414
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "b7fba1dba23bd85",
+      "name" : "search[Mobile advertising]",
+      "title" : "Search [Mobile advertising]",
+      "time" : {
+        "start" : 1471498155929,
+        "stop" : 1471498160672,
+        "duration" : 4743
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "18bed7e4f35b8d5",
+      "name" : "search[Mobile marketing]",
+      "title" : "Search [Mobile marketing]",
+      "time" : {
+        "start" : 1471498160673,
+        "stop" : 1471498165391,
+        "duration" : 4718
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "e10518d10d9444c7",
+      "name" : "search[Mobile internet]",
+      "title" : "Search [Mobile internet]",
+      "time" : {
+        "start" : 1471498165394,
+        "stop" : 1471498170071,
+        "duration" : 4677
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "d8aa034d3afd783",
+      "name" : "search[Mobile ad firm]",
+      "title" : "Search [Mobile ad firm]",
+      "time" : {
+        "start" : 1471498808264,
+        "stop" : 1471498814331,
+        "duration" : 6067
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "4cb2e3251b8e3433",
+      "name" : "search[Mobile advertising]",
+      "title" : "Search [Mobile advertising]",
+      "time" : {
+        "start" : 1471498816469,
+        "stop" : 1471498822363,
+        "duration" : 5894
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "ca5844e6965bf5dd",
+      "name" : "search[Mobile marketing]",
+      "title" : "Search [Mobile marketing]",
+      "time" : {
+        "start" : 1471498824466,
+        "stop" : 1471498830401,
+        "duration" : 5935
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "b493164850de12e7",
+      "name" : "search[Mobile internet]",
+      "title" : "Search [Mobile internet]",
+      "time" : {
+        "start" : 1471498832454,
+        "stop" : 1471498838476,
+        "duration" : 6022
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "a2fc7873a7696d13",
+      "name" : "kewordSearchtxt",
+      "title" : "Keword searchtxt",
+      "time" : {
+        "start" : 1471495323705,
+        "stop" : 1471495323714,
+        "duration" : 9
+      },
+      "severity" : "NORMAL",
+      "status" : "CANCELED"
+    }, {
+      "uid" : "552274e10d5d8cd",
+      "name" : "search",
+      "title" : "Search",
+      "time" : {
+        "start" : 1471495905189,
+        "stop" : 1471495905193,
+        "duration" : 4
+      },
+      "severity" : "NORMAL",
+      "status" : "CANCELED"
+    }, {
+      "uid" : "b4cebadd1ad7fe61",
+      "name" : "search[Mobile ad firm]",
+      "title" : "Search [Mobile ad firm]",
+      "time" : {
+        "start" : 1471498872539,
+        "stop" : 1471498878593,
+        "duration" : 6054
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "323d4dc5ba20c106",
+      "name" : "search[Mobile advertising]",
+      "title" : "Search [Mobile advertising]",
+      "time" : {
+        "start" : 1471498880754,
+        "stop" : 1471498886784,
+        "duration" : 6030
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "815bec19a7c9432a",
+      "name" : "search[Mobile marketing]",
+      "title" : "Search [Mobile marketing]",
+      "time" : {
+        "start" : 1471498888846,
+        "stop" : 1471498894869,
+        "duration" : 6023
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "46e06815f696d873",
+      "name" : "search[Mobile internet]",
+      "title" : "Search [Mobile internet]",
+      "time" : {
+        "start" : 1471498896929,
+        "stop" : 1471498902836,
+        "duration" : 5907
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "b11a50bed623f717",
+      "name" : "search",
+      "title" : "Search",
+      "time" : {
+        "start" : 1471496370951,
+        "stop" : 1471496370973,
+        "duration" : 22
+      },
+      "severity" : "NORMAL",
+      "status" : "CANCELED"
+    }, {
+      "uid" : "a3e55368a2dc87b0",
+      "name" : "kewordSearchtxt",
+      "title" : "Keword searchtxt",
+      "time" : {
+        "start" : 1471495296101,
+        "stop" : 1471495296107,
+        "duration" : 6
+      },
+      "severity" : "NORMAL",
+      "status" : "CANCELED"
+    } ]
+  }, {
+    "uid" : "49adc5ed54b27a62",
+    "name" : "Surefire suite : Surefire test",
+    "title" : "Surefire suite : Surefire test",
+    "time" : {
+      "start" : 1471491555900,
+      "stop" : 1471491586844,
+      "duration" : 30944
+    },
+    "statistic" : {
+      "total" : 12,
+      "passed" : 10,
+      "pending" : 0,
+      "canceled" : 2,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "716af827939cb7d6",
+      "name" : "searchforkargo",
+      "title" : "Searchforkargo",
+      "time" : {
+        "start" : 1471491555900,
+        "stop" : 1471491568080,
+        "duration" : 12180
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "1331511bfead1c21",
+      "name" : "searchforkargo",
+      "title" : "Searchforkargo",
+      "time" : {
+        "start" : 1471491555900,
+        "stop" : 1471491568080,
+        "duration" : 12180
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "290e43cff55b77e9",
+      "name" : "kewordSearcharray[Mobile ad firm]",
+      "title" : "Keword searcharray [Mobile ad firm]",
+      "time" : {
+        "start" : 1471491569299,
+        "stop" : 1471491572370,
+        "duration" : 3071
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "33349fa78816446e",
+      "name" : "kewordSearcharray[Mobile ad firm]",
+      "title" : "Keword searcharray [Mobile ad firm]",
+      "time" : {
+        "start" : 1471491569299,
+        "stop" : 1471491572370,
+        "duration" : 3071
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "a0585a2f38276cea",
+      "name" : "kewordSearcharray[Mobile advertising]",
+      "title" : "Keword searcharray [Mobile advertising]",
+      "time" : {
+        "start" : 1471491575433,
+        "stop" : 1471491578598,
+        "duration" : 3165
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "779de50394155f3a",
+      "name" : "kewordSearcharray[Mobile advertising]",
+      "title" : "Keword searcharray [Mobile advertising]",
+      "time" : {
+        "start" : 1471491575433,
+        "stop" : 1471491578598,
+        "duration" : 3165
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "87538362d92ab54e",
+      "name" : "kewordSearcharray[Mobile marketing]",
+      "title" : "Keword searcharray [Mobile marketing]",
+      "time" : {
+        "start" : 1471491579604,
+        "stop" : 1471491582694,
+        "duration" : 3090
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "a510adec3f8abe6f",
+      "name" : "kewordSearcharray[Mobile marketing]",
+      "title" : "Keword searcharray [Mobile marketing]",
+      "time" : {
+        "start" : 1471491579604,
+        "stop" : 1471491582694,
+        "duration" : 3090
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "6d5566aee6a69899",
+      "name" : "kewordSearcharray[Mobile internet]",
+      "title" : "Keword searcharray [Mobile internet]",
+      "time" : {
+        "start" : 1471491583714,
+        "stop" : 1471491586763,
+        "duration" : 3049
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "f34026afa557e325",
+      "name" : "kewordSearcharray[Mobile internet]",
+      "title" : "Keword searcharray [Mobile internet]",
+      "time" : {
+        "start" : 1471491583714,
+        "stop" : 1471491586763,
+        "duration" : 3049
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "eaa6985d10aaffce",
+      "name" : "kewordSearchtxt",
+      "title" : "Keword searchtxt",
+      "time" : {
+        "start" : 1471491586838,
+        "stop" : 1471491586843,
+        "duration" : 5
+      },
+      "severity" : "NORMAL",
+      "status" : "CANCELED"
+    }, {
+      "uid" : "964c5b4cf0f79bb6",
+      "name" : "kewordSearchtxt",
+      "title" : "Keword searchtxt",
+      "time" : {
+        "start" : 1471491586844,
+        "stop" : 1471491586844,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "CANCELED"
+    } ]
+  } ]
+}
